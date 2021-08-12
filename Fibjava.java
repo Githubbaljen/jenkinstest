@@ -12,6 +12,7 @@ public static void main(String args[])
   n2=n3; 
   
  }  
- System.out.print("Run from Jenkins!");  
+ System.out.print("Run from Jenkins!")
+  System.out.println("Run from Jenkins2!");  
 }
 }
